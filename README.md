@@ -1,6 +1,7 @@
 ## What is it?
 
 Frida tools, binaries and signatures (Zignatures) for implementing universal SSLUnpinning in OpenSSL-based projects.
+More - https://xakep.ru/2019/09/12/ssl-sniffing/
 
 ## Structure
 
